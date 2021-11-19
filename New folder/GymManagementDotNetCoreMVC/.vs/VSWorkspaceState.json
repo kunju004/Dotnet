@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\GymManagementMVC",
+    "\\GymManagementMVC\\Controllers",
     "\\GymManagementMVC\\Views",
     "\\GymManagementMVC\\Views\\Member"
   ],
-  "SelectedNode": "\\GymManagementMVC\\Views\\Member\\Index.cshtml",
+  "SelectedNode": "\\GymManagementMVC\\Controllers\\TrainersController.cs",
   "PreviewInSolutionExplorer": false
 }
