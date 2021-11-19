@@ -15,5 +15,9 @@ namespace GymManagementMVC.Data
         }
 
         public DbSet<GymManagementMVC.Models.Member> Member { get; set; }
+
+        public DbSet<GymManagementMVC.Models.Equipment> Equipment { get; set; }
+
+        public DbSet<GymManagementMVC.Models.Trainer> Trainer { get; set; }
     }
 }
