@@ -6,6 +6,15 @@
     <title>@ViewData["Title"] - GymManagementMVC</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        i{
+            font-size:25px;
+            padding:5px;
+        }
+        .fiximage{
+            background-image:url("../../Images/danielle-cerullo-CQfNt66ttZM-unsplash.jpg")
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -21,19 +30,19 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-controller="Home">Home</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Equipments" asp-action="Index">Equipments</a>
+                            <a class="nav-link text-dark" asp-controller="Equipments">Equipments</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Members" asp-action="Index">Members</a>
+                            <a class="nav-link text-dark" asp-controller="Members">Members</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Trainers" asp-action="Index">Trainers</a>
+                            <a class="nav-link text-dark" asp-controller="Trainers">Trainers</a>
                         </li>
                     </ul>
                 </div>
@@ -54,6 +63,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://kit.fontawesome.com/1632257166.js" crossorigin="anonymous"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
