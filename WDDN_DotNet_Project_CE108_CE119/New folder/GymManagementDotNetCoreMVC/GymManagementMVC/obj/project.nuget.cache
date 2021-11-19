@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8/gzoG4cVTqGv3A69Lst5RkcGeViR9XBRXTmK9XtBqNmsJppjNI7yD+GlYWS9ZChsEv9/0r3hCw+15FtbEqMUQ==",
+  "dgSpecHash": "EJQzN0VwZl5Jq9B87a8bvVtR8kYiXUl53BxAw4frugB+eoN2DEkGqDWeW+xswl6y71XF4aBMk0bQyKOG0YMLHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
+  "projectFilePath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\WDDN_DotNet_Project_CE108_CE119\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dhruv j Patel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dhruv j Patel\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -7155,11 +7155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\WDDN_DotNet_Project_CE108_CE119\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
       "projectName": "GymManagementMVC",
-      "projectPath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
+      "projectPath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\WDDN_DotNet_Project_CE108_CE119\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
       "packagesPath": "C:\\Users\\Dhruv j Patel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\obj\\",
+      "outputPath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\WDDN_DotNet_Project_CE108_CE119\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dhruv j Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
