@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj": {}
+    "C:\\Users\\KUNJ\\Desktop\\kunj 04\\SEM5\\wddn\\Gym_WDDN\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj": {
+    "C:\\Users\\KUNJ\\Desktop\\kunj 04\\SEM5\\wddn\\Gym_WDDN\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
+        "projectUniqueName": "C:\\Users\\KUNJ\\Desktop\\kunj 04\\SEM5\\wddn\\Gym_WDDN\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
         "projectName": "GymManagementMVC",
-        "projectPath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
-        "packagesPath": "C:\\Users\\Dhruv j Patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhruv j Patel\\Desktop\\DOTNETCOREMVC\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\obj\\",
+        "projectPath": "C:\\Users\\KUNJ\\Desktop\\kunj 04\\SEM5\\wddn\\Gym_WDDN\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\GymManagementMVC.csproj",
+        "packagesPath": "C:\\Users\\KUNJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KUNJ\\Desktop\\kunj 04\\SEM5\\wddn\\Gym_WDDN\\Dotnet\\New folder\\GymManagementDotNetCoreMVC\\GymManagementMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dhruv j Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KUNJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

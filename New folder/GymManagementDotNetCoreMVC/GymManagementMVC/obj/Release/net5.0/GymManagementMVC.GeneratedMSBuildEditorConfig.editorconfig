@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = GymManagementMVC
-build_property.ProjectDir = C:\Users\KUNJ\Desktop\kunj 04\SEM5\wddn\Core\Dotnet\New folder\GymManagementDotNetCoreMVC\GymManagementMVC\
+build_property.ProjectDir = C:\Users\KUNJ\Desktop\kunj 04\SEM5\wddn\Gym_WDDN\Dotnet\New folder\GymManagementDotNetCoreMVC\GymManagementMVC\
